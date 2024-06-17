@@ -31,3 +31,4 @@ int main() {
     }
    
 }
+//https://codeforces.com/contest/1800/problem/C1
