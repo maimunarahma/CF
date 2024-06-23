@@ -31,3 +31,4 @@ int main() {
         }
         cout<<sm<<'\n';
     }}
+    //https://codeforces.com/contest/1985/problem/C
