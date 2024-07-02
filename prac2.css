@@ -1,0 +1,44 @@
+span{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(42, 48, 51);
+}
+#align{
+    text-align:center;
+}
+#header {
+    height: 100%;
+    width: 100%;
+    background-image: url('bird.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+#bird{
+    text-align: left;
+    padding-top: 25%;
+}
+
+#card{
+    color:rgb(181, 176, 168);
+    font-size: 20px;
+    text-decoration:none;
+}
+.pikachu{
+    border:5%;
+    border-style: round;
+    border-radius: 5px;
+    background-color: rgb(231, 144, 12);
+    box-shadow: burlywood;
+    padding: 25px 35px 45px;
+    margin:0px;
+    text-decoration: none;
+    padding-left: 5px;
+   /* padding-inline-start: 4px;*/
+   font-size: 26px;
+ 
+}

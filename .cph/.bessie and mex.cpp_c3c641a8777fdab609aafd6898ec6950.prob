@@ -1,0 +1,1 @@
+{"name":"Local: bessie and mex","url":"c:\\Users\\maimu\\git1repo\\bessie and mex.cpp","tests":[{"id":1719110425847,"input":"3\n5\n1 1 -2 1 2\n5\n1 1 1 1 1\n3\n-2 1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\maimu\\git1repo\\bessie and mex.cpp","group":"local","local":true}

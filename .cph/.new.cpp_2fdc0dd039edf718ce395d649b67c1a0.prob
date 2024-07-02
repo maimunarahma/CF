@@ -1,0 +1,1 @@
+{"name":"Local: new","url":"c:\\Users\\maimu\\git1repo\\new.cpp","tests":[{"id":1719618571100,"input":"3\nabcdef\ngec\ner\ncf\ncontest\ntest\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\maimu\\git1repo\\new.cpp","group":"local","local":true}
